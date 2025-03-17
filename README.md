@@ -45,3 +45,6 @@ python journal.py
 - Click "Record" to start recording.
 - Click "Stop Recording" to save the `.mp4` file to `records/`.
 - View previous recordings in the right panel.
+
+## License
+This project is unlicensed — use it as you see fit!
